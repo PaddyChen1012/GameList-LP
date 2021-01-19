@@ -1,0 +1,6 @@
+* {
+    user-select: none;
+}
+.w-48 {
+    width: 48% !important;
+}
