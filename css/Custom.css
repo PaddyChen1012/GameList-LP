@@ -18,7 +18,7 @@ body {
     background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(38,38,38,1) 30%, rgba(60,60,60,1) 50%, rgba(38,38,38,1) 70%, rgba(0,0,0,1) 100%);
     background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(38,38,38,1) 30%, rgba(60,60,60,1) 50%, rgba(38,38,38,1) 70%, rgba(0,0,0,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
-    border-bottom: 2px solid;
+    border-bottom: 1px solid;
     -moz-border-image: -moz-linear-gradient(45deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);
     -webkit-border-image: -webkit-linear-gradient(45deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);
     border-image: linear-gradient(135deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);
@@ -27,7 +27,8 @@ body {
 .w-48 {
     width: 48% !important;
 }
-h2 {
+h2,
+.modal-header h5 {
     display: unset;
     background: rgb(228,164,9);
     background: -moz-linear-gradient(225deg, rgba(228,164,9,1) 0%, rgba(252,255,160,1) 17%, rgba(255,255,0,1) 24%, rgba(228,164,9,1) 50%, rgba(255,255,186,1) 61%, rgba(255,180,0,1) 84%, rgba(255,255,0,1) 100%);
@@ -67,6 +68,6 @@ h2 {
     border-image-slice: 1;
 }
 .close {
-    color: #f8f9fa;
+    color: rgba(255,255,0,1);
     text-shadow: 0 1px 0 #000;
 }
