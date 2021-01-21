@@ -2,206 +2,206 @@
     "GAMELIST" : [
         {
             "name" : "Stage 888",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/1.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■□□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■■□",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★☆☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★★☆",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "Crazy Genie",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/2.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■■□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■□□",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■■■"
+            "main1" : "ดัชนีแนะนำ★★★★☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★☆☆",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★★★"
         },
         {
             "name" : "Elven Magic",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/3.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■□□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■■□",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★☆☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★★☆",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "Jingle Bells",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/4.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■□□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■■■",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★☆☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★★★",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "Red Diamond",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/5.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■□□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■■□",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■■□"
+            "main1" : "ดัชนีแนะนำ★★★☆☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★★☆",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★★☆"
         },
         
         {
             "name" : "12Animals",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/6.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■■■",
-            "main2" : "อัตรารางวัลใหญ่: ■■■■■",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★★★",
+            "main2" : "อัตรารางวัลใหญ่: ★★★★★",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "Diego Fortune",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/7.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■■□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■□□",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★★☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★☆☆",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "Supreme Fortune",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/8.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■□□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■■□",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★☆☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★★☆",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "Poisoned Apple",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/9.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■■□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■■■",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★★☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★★★",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "Booongo 88 Wild Dragon",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/10.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■■□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■□□",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★★☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★☆☆",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
 
         {
             "name" : "One Punch Man",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/11.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■■□",
-            "main2" : "อัตรารางวัลใหญ่: ■■□□□",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★★☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★☆☆☆",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "Street Fighter",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/12.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■■■",
-            "main2" : "อัตรารางวัลใหญ่: ■■□□□",
-            "main3" : "ความกระตุ้น: ■■■□□",
-            "main4" : "ความทนทาน: ■■■■■"
+            "main1" : "ดัชนีแนะนำ★★★★★",
+            "main2" : "อัตรารางวัลใหญ่: ★★☆☆☆",
+            "main3" : "ความกระตุ้น: ★★★☆☆",
+            "main4" : "ความทนทาน: ★★★★★"
         },
         {
             "name" : " Funkykingkong",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/13.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■□□□",
-            "main2" : "อัตรารางวัลใหญ่: ■■□□□",
-            "main3" : "ความกระตุ้น: ■■□□□",
-            "main4" : "ความทนทาน: ■□□□□"
+            "main1" : "ดัชนีแนะนำ★★☆☆☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★☆☆☆",
+            "main3" : "ความกระตุ้น: ★★☆☆☆",
+            "main4" : "ความทนทาน: ★☆☆☆☆"
         },
         {
             "name" : "Winning Mask",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/14.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■■□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■□□",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★★☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★☆☆",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "Mjoinir",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/15.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■□□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■□□",
-            "main3" : "ความกระตุ้น: ■■□□□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★☆☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★☆☆",
+            "main3" : "ความกระตุ้น: ★★☆☆☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
 
         {
             "name" : "Lucky Bats",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/16.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■■□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■■□",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★★☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★★☆",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "RunningToro",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/17.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■■■",
-            "main2" : "อัตรารางวัลใหญ่: ■■■■□",
-            "main3" : "ความกระตุ้น: ■■■□□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★★★",
+            "main2" : "อัตรารางวัลใหญ่: ★★★★☆",
+            "main3" : "ความกระตุ้น: ★★★☆☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "Muay Thai",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/18.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■□□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■□□",
-            "main3" : "ความกระตุ้น: ■■□□□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★☆☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★☆☆",
+            "main3" : "ความกระตุ้น: ★★☆☆☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "Gophers War",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/19.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■□□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■□□",
-            "main3" : "ความกระตุ้น: ■■■■□",
-            "main4" : "ความทนทาน: ■■■□□"
+            "main1" : "ดัชนีแนะนำ★★★☆☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★☆☆",
+            "main3" : "ความกระตุ้น: ★★★★☆",
+            "main4" : "ความทนทาน: ★★★☆☆"
         },
         {
             "name" : "Ze Zha Advent",
-            "img" : "https://picsum.photos/id/684/600/400",
+            "img" : "../images/20.jpg",
             "link1" : "https://getbootstrap.com/docs/4.2/components/buttons/",
             "link2" : "https://www.flaticon.com/free-icon/add-user_748137?term=add&page=1&position=29&related_id=748137&origin=search&k=1610504108340",
-            "main1" : "ดัชนีแนะนำ■■■■□",
-            "main2" : "อัตรารางวัลใหญ่: ■■■■□",
-            "main3" : "ความกระตุ้น: ■■□□□",
-            "main4" : "ความทนทาน: ■■□□□"
+            "main1" : "ดัชนีแนะนำ★★★★☆",
+            "main2" : "อัตรารางวัลใหญ่: ★★★★☆",
+            "main3" : "ความกระตุ้น: ★★☆☆☆",
+            "main4" : "ความทนทาน: ★★☆☆☆"
         }
     ]
 }
