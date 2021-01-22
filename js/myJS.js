@@ -8,10 +8,10 @@ request.send();
 
 request.onload = function() {
     var GameList = request.response;
-    showHeroes(GameList);
+    loadData(GameList);
 }
 
-function showHeroes(jsonObj) {
+function loadData(jsonObj) {
     var GameList = jsonObj['GAMELIST'];
 
     var GameName = document.querySelector('#GameName');
@@ -23,8 +23,8 @@ function showHeroes(jsonObj) {
     var GameMain3 = document.querySelector('#GameMain3')
     var GameMain4 = document.querySelector('#GameMain4')
 
-    function getNum(e) {
-        Num = e.target.dataset.no;
+    function getNum(btnNo) {
+        Num = btnNo.target.dataset.no;
         GameName.textContent = GameList[Num].name;
         pageImg.setAttribute('src', GameList[Num].img)
         Link1.setAttribute('href', GameList[Num].link1);
@@ -41,6 +41,6 @@ function showHeroes(jsonObj) {
 }
 let btnNo = document.querySelectorAll('[name="btn"]');
 for(var j = 0; j < btnNo.length ; j++) {
-    btnNo[j].addEventListener('click', showHeroes,false);
+    btnNo[j].addEventListener('click', loadData,false);
 }
 
