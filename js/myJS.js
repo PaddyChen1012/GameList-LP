@@ -1,18 +1,17 @@
 // const GameMsg = document.querySelector('#productDescription');
-var requestURL = 'https://PaddyChen1012.github.io/GameList-LP/json/data.json';
-var request = new XMLHttpRequest();
-
+let requestURL = 'https://PaddyChen1012.github.io/GameList-LP/json/data.json';
+let request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = 'json';
 request.send();
 
 request.onload = function() {
-    var GameList = request.response;
+    const GameList = request.response;
     loadData(GameList);
 }
 
-function loadData(jsonObj) {
-    var GameList = jsonObj['GAMELIST'];
+function loadData(obj) {
+    var GameList = obj['GAMELIST'];
 
     var GameName = document.querySelector('#GameName');
     var pageImg = document.querySelector('#pageImg img');
