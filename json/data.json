@@ -2,7 +2,7 @@
     "GAMELIST" : [
         {
             "name" : "Stage 888",
-            "img" : "../images/1.jpg",
+            "img" : "images/1.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=RT&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=RT&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★☆☆",
@@ -12,7 +12,7 @@
         },
         {
             "name" : "Crazy Genie",
-            "img" : "../images/2.jpg",
+            "img" : "images/2.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=RT&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=RT&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★★☆",
@@ -22,7 +22,7 @@
         },
         {
             "name" : "Elven Magic",
-            "img" : "../images/3.jpg",
+            "img" : "images/3.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=RT&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=RT&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★☆☆",
@@ -32,7 +32,7 @@
         },
         {
             "name" : "Jingle Bells",
-            "img" : "../images/4.jpg",
+            "img" : "images/4.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=RT&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=RT&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★☆☆",
@@ -42,7 +42,7 @@
         },
         {
             "name" : "Red Diamond",
-            "img" : "../images/5.jpg",
+            "img" : "images/5.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=RT&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=RT&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★☆☆",
@@ -53,7 +53,7 @@
         
         {
             "name" : "12Animals",
-            "img" : "../images/6.jpg",
+            "img" : "images/6.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=BNG&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=BNG&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★★★",
@@ -63,7 +63,7 @@
         },
         {
             "name" : "Diego Fortune",
-            "img" : "../images/7.jpg",
+            "img" : "images/7.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=BNG&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=BNG&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★★☆",
@@ -73,7 +73,7 @@
         },
         {
             "name" : "Supreme Fortune",
-            "img" : "../images/8.jpg",
+            "img" : "images/8.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=BNG&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=BNG&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★☆☆",
@@ -83,7 +83,7 @@
         },
         {
             "name" : "Poisoned Apple",
-            "img" : "../images/9.jpg",
+            "img" : "images/9.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=BNG&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=BNG&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★★☆",
@@ -93,7 +93,7 @@
         },
         {
             "name" : "Booongo 88 Wild Dragon",
-            "img" : "../images/10.jpg",
+            "img" : "images/10.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=BNG&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=BNG&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★★☆",
@@ -104,7 +104,7 @@
 
         {
             "name" : "One Punch Man",
-            "img" : "../images/11.jpg",
+            "img" : "images/11.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=JDB&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=JDB&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★★☆",
@@ -114,7 +114,7 @@
         },
         {
             "name" : "Street Fighter",
-            "img" : "../images/12.jpg",
+            "img" : "images/12.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=JDB&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=JDB&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★★★",
@@ -124,7 +124,7 @@
         },
         {
             "name" : " Funkykingkong",
-            "img" : "../images/13.jpg",
+            "img" : "images/13.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=JDB&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=JDB&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★☆☆☆",
@@ -134,7 +134,7 @@
         },
         {
             "name" : "Winning Mask",
-            "img" : "../images/14.jpg",
+            "img" : "images/14.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=JDB&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=JDB&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★★☆",
@@ -144,7 +144,7 @@
         },
         {
             "name" : "Mjoinir",
-            "img" : "../images/15.jpg",
+            "img" : "images/15.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=JDB&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=JDB&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★☆☆",
@@ -155,7 +155,7 @@
 
         {
             "name" : "Lucky Bats",
-            "img" : "../images/16.jpg",
+            "img" : "images/16.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=CQ9&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=CQ9&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★★☆",
@@ -165,7 +165,7 @@
         },
         {
             "name" : "RunningToro",
-            "img" : "../images/17.jpg",
+            "img" : "images/17.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=CQ9&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=CQ9&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★★★",
@@ -175,7 +175,7 @@
         },
         {
             "name" : "Muay Thai",
-            "img" : "../images/18.jpg",
+            "img" : "images/18.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=CQ9&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=CQ9&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★☆☆",
@@ -185,7 +185,7 @@
         },
         {
             "name" : "Gophers War",
-            "img" : "../images/19.jpg",
+            "img" : "images/19.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=CQ9&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=CQ9&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★☆☆",
@@ -195,7 +195,7 @@
         },
         {
             "name" : "Ze Zha Advent",
-            "img" : "../images/20.jpg",
+            "img" : "images/20.jpg",
             "link1" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=CQ9&gameSelectType=all",
             "link2" : "https://www.pay69slot.com/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95?brand=CQ9&gameSelectType=all",
             "main1" : "ดัชนีแนะนำ★★★★☆",
