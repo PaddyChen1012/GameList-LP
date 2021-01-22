@@ -15,8 +15,8 @@ function loadData(obj) {
 
     var GameName = document.querySelector('#GameName');
     var pageImg = document.querySelector('#pageImg img');
-    var Link1 = document.querySelector('#Link1');
-    var Link2 = document.querySelector('#Link2');
+    // var Link1 = document.querySelector('#Link1');
+    // var Link2 = document.querySelector('#Link2');
     var GameMain1 = document.querySelector('#GameMain1')
     var GameMain2 = document.querySelector('#GameMain2')
     var GameMain3 = document.querySelector('#GameMain3')
@@ -26,8 +26,8 @@ function loadData(obj) {
         Num = btnNo.target.dataset.no;
         GameName.textContent = GameList[Num].name;
         pageImg.setAttribute('src', GameList[Num].img)
-        Link1.setAttribute('href', GameList[Num].link1);
-        Link2.setAttribute('href', GameList[Num].link2);
+        // Link1.setAttribute('href', GameList[Num].link1);
+        // Link2.setAttribute('href', GameList[Num].link2);
         GameMain1.textContent = GameList[Num].main1;
         GameMain2.textContent = GameList[Num].main2;
         GameMain3.textContent = GameList[Num].main3;
