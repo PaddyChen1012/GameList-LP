@@ -1,5 +1,5 @@
 // const GameMsg = document.querySelector('#productDescription');
-var requestURL = '/../json/data.json';
+var requestURL = 'https://PaddyChen1012.github.io/GameList-LP/json/data.json';
 var request = new XMLHttpRequest();
 
 request.open('GET', requestURL);
